@@ -2485,7 +2485,7 @@ $four = $suf;
       array("7607","AIRTEL","UTTAR PRADESH (E)"),
       array("7620","RELIANCE","MAHARASHTRA"),
       array("7631","VODAFONE","BIHAR & JHARKHAND"),
-      array("7639","VODAFONE","TAMILNADU"),
+      array("7639","VODAFONE","TAMILNADU"), //verfified
       array("7654","IDEA","BIHAR & JHARKHAND"),
       array("7665","VODAFONE","RAJASTHAN"),
       array("7666","RELIANCE","MUMBAI"),
